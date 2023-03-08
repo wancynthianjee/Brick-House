@@ -1,0 +1,134 @@
+@media (min-width: 600px) and (max-width: 768px) {
+
+    }
+
+.main{ 
+
+
+}
+.opd{
+    margin: 4%;
+}
+.sub mini{
+    background-color: yellow;
+
+}
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    width: 40px;
+}
+#image{
+    width: 40px;
+    height: 40px;
+
+}.mojo{
+    background-color: yellow;
+    min-width: 7vh;
+    min-height: 5vh;
+    margin-bottom: 2%;
+}
+#one { background-color: yellow;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+#pic{
+    margin-left:100%;
+    width: 400px;
+    height: 400px;
+    
+}
+.plus{
+    margin-left: 75%;
+    display: inline-block;
+    display: flex;
+    display: contents;
+    
+
+}
+#img{
+    width: 100vh;
+    height:100vh
+}
+#lego{
+
+}
+.footer{
+    padding:10px;
+    background-color: #4c0500;
+    color: #fff;
+}
+.row{
+    display: flex;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.opa{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+}
+/* #on{
+    display: flex;
+}
+#up{
+    display: flex;
+}
+#me{
+    display: flex;
+} */
+#na{
+    margin-right: 50%;
+    width: 550px;
+    height: 550px;
+  
+}
+.poa{
+    margin: 10%;
+}
+/* .creator{
+    margin-left: 40%;
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+} */
+h4{
+    margin-left: 40%;
+}
+h5{
+    margin-left: 45%;
+}
+#but4{
+    margin-left: 45%;
+}
+/* .pi{
+    margin-left: 90%;
+} */
+
+
+
+
+
