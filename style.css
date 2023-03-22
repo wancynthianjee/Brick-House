@@ -1,6 +1,4 @@
-@media (min-width: 600px) and (max-width: 768px) {
 
-    }
 
 .main{ 
 
@@ -60,16 +58,12 @@ nav ul li a{
     
 }
 .plus{
-    margin-left:79%;
-
-    /* display:contents ; */
-    display:inline-block;
-    /* display:flex; */
-    /* margin-top: -55%; */
+    
+}
     
 
 
-}
+
 #img{
     width: 100vh;
     height:100vh
@@ -146,6 +140,11 @@ h5{
     list-style-type: none;
     /* margin-bottom: -2%; */
     padding-top: 2px;
+}
+.oop{
+    border-radius: 2px;
+    border-style: hidden;
+    padding: 2px;
 }
 
 

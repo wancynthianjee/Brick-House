@@ -1,0 +1,210 @@
+
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: contents;
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    width: 40px;
+}
+
+#pi{
+}
+.plan{
+    background-color: yellow;
+    background-size: contain;
+    overscroll-behavior-block: initial;
+
+}
+#image{
+    margin-left: 96%;
+}
+.zoro{
+    background-color:deeppink;
+    background-size: contain;
+    overscroll-behavior-block: initial;
+}
+h1{
+    text-align:center;
+    text-transform: capitalize;
+    text-decoration-style: wavy;
+    -moz-text-size-adjust: 3%;
+    
+
+}
+#h2{
+    text-align:left;
+    margin-left: 10%;
+}
+#h4{
+     margin-left:2% ;
+}
+.pa{
+    margin-left: 6%;
+    border: solid;
+    margin-top: 4%;
+    width: 20%;
+
+}
+.ma{
+    width:50px;
+    height: 50px;
+}
+
+#pic{
+margin-left:100%;
+width: 400px;
+height: 400px;
+
+}
+.plus{
+margin-left:85%;
+display: inline-block;
+
+display: block;
+display:flex;
+
+
+}
+
+.footer{
+padding:10px;
+background-color:purple;
+color: #fff;
+}
+.row{
+display: flex;
+background-color:purple;
+color:#fff;
+}
+.footer-col{
+width: 25%;
+padding: 0 15px;
+}
+.miky{
+    display: grid;
+
+}
+#bu{
+    display: flex;
+    margin-left: 90%;
+    text-align: end;
+    text-decoration-color: black;
+}
+#one{
+    display: grid;
+
+
+}
+.nav1{
+    margin-left:30%;
+    margin-top: -70%;
+
+}
+/* .miky{
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* margin-left:14%;
+    margin-top: -68%;
+    width: 100px;
+    justify-content: space-between; */
+
+/* } */ */
+span{
+    color: yellow;
+    font-size: small;
+    margin-bottom: 4.3%;
+}
+p1{
+    color: red;
+}
+button{
+    text-align: center;
+    background-color: yellow;
+    margin-left: 50%;
+    box-sizing: 10px;
+}
+
+/* }
+span{
+    border-style: ridge;
+    border-radius: 30px;
+    padding-top: 2px;
+    border-width: 1px;
+    font-weight: bolder;
+    margin-top: 2%;
+    font-size: small;
+    background-color: #fff;
+}
+.span{
+    margin-left: 45%;
+    margin-bottom: 3%;
+    margin-top: 6%;
+} */
+/* #span1{
+    background-color: #FFD600;
+    color: #fff;
+    margin-bottom: 4.3%;
+} */
+#bttn5{
+    padding: 15px 80px;
+    border-radius: 10px;
+    margin-left: 48%;
+    background-color: #FFD600;
+    color: #fff;
+    margin-bottom: 4.3%;
+    border-color: #FFD600;
+}
+.jojo{
+    display:flex;
+    margin-left: 45%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+
+}
+.girl{
+    display:flex;
+    margin-left: 45%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+.boy{
+    display:flex;
+    margin-left: 45%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+
+}
+.mimim{
+    display:flex;
+    margin-left: 45%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+.showy{
+    display:flex;
+    margin-left: 45%;
+    justify-content: space-evenly;
+    margin-top: 2%;
+}
+.miky{
+    margin-top: -70%;
+    padding-right: 10%;
+
+
+}
