@@ -1,0 +1,301 @@
+
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: contents;
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    width: 40px;
+}
+#product{
+    text-align: center;
+}
+
+#mag{
+    height: 40px;
+    border-radius: 10px;
+    margin-bottom: -2%;
+}
+.meddy{
+    justify-content: space-between;
+    padding: 20px;
+    margin-top: -10%;
+    background-color: orange;
+  }
+  #logoo{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  #caty{
+    padding: 10px 80px;
+    border-radius: 5px;
+    margin-left: 5%;
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  #search{
+    margin-left: 8%;
+    border: solid;
+    padding: 10px 280px;
+    border-radius: 10px;
+    padding-left:15px;
+    background-color: white;
+  }
+  #heartt{
+    margin-left: 24%;
+    font-size: 28px;
+  }
+  #cart{
+    margin-left: 1% ;
+    font-size: 28px;
+  }
+  #user{
+    margin-left: 1%;
+    font-size: 28px;
+  }
+  .mob{
+    border: solid;
+    width: 15%;
+    padding-left:20px ;
+    padding-bottom:18px ;
+   border-radius: 12px;
+    border-color: grey;
+    margin-left: 900px;
+}
+#ave{
+  padding: 5px 40px;
+  border-radius: 5px;
+  border-color: green;
+  color: green;
+  background-color: white;
+}
+#er{
+  padding: 5px 50px;
+  background-color: yellow;
+  color: white;
+  border-radius: 5px;
+  border-color: yellow;
+}
+#mimi{
+  margin-left: 40%;
+}
+#ta{
+  margin-left: 40%;
+}
+#de{
+  margin-left: 40%;
+}
+#ke{
+  margin-left: 40%;
+}
+#ki{
+  margin-top: -800px;
+}
+.pip{
+  margin-left: 25%;
+  margin-top: -16%;
+}
+#pip{
+  font-weight: bolder;
+}
+#ris{
+  background-color: grey;
+}
+#mm{
+  background-color: yellow;
+}
+.ria{
+  margin-left: 25%;
+  margin-top: -16%;
+}
+#l{
+  font-weight: bolder;
+}
+#my{
+  font-weight: bolder;
+}
+.ril{
+  margin-left: 25%;
+  margin-top: -16%;
+}
+#asy{
+  text-align: center;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 28px;
+}
+#lom{
+  margin-left: 25%;
+  background-color: grey;
+  border-radius: 10px;
+  padding: 5px 5px;
+}
+/* #nelly{
+  margin-left: 12%;
+  background-color: grey;
+  border-radius: 10px;
+  padding: 5px 5px;
+}
+#liz{
+  margin-left: 18%;
+  background-color: grey;
+  border-radius: 10px;
+  padding: 5px 5px;
+}
+#mercy{
+  margin-left: 14%;
+  background-color:grey;
+  border-radius: 10px;
+  padding: 5px 5px;
+} */
+#b{
+  margin-left: 7%;
+  margin-top: 2%;
+  border-radius: 10px;
+  background-color: crimson;
+  color: white;
+}
+#b1{
+  margin-left: 7%;
+  margin-top: 2%;
+  border-radius: 10px;
+  background-color: crimson;
+  color: white;
+}
+#je{
+  margin-left: 8%;
+}
+#ji{
+  margin-left: 8%;
+}
+#jo{
+  margin-left: 5%;
+}
+#ju{
+  margin-left: 5%;
+}
+#pr{
+  margin-left: 11%;
+}
+#hy{
+  margin-left: 35%;
+  margin-top: -4%;
+}
+#py{
+  margin-left: 59%;
+  margin-top: -3%;
+}
+#shiks{
+  margin-left: 82%;
+  margin-top: -4%;
+}
+#si{
+  margin-left: 19%;
+}
+#ip{
+  color: yellow;
+}
+#air{
+  margin-left: 35%;
+  margin-top: -2%;
+}
+#lee{
+  margin-left: 46%;
+ margin-top:-3% ;
+}
+#sip{
+  margin-left: 62%;
+  margin-top: -2%;
+}
+#qr{
+  margin-left: 74%;
+  margin-top: -2%;
+}
+#cy{
+  margin-left: 85%;
+  margin-top: -2%;
+}
+#a{
+  margin-left: 15%;
+}
+#e{
+  margin-left: 38%;
+  margin-top: -2.1%;
+}
+#o{
+  margin-left:65% ;
+  margin-top: -2.4%;
+}
+#u{
+  margin-left: 85%;
+  margin-top: -2.7%;
+}
+
+.house{
+  display: flex;
+  color: black;
+  font-weight: bolder;
+  background-color: navy;
+}
+#hut{
+  font-weight: bolder;
+  font-size: 23px;
+}
+#cy{
+  margin-left: 12%;
+}
+#cooky{
+  margin-left: 10%;
+}
+#vor{
+  margin-left: 10%;
+}
+#image{
+    height:40px;
+    width:40px;
+    margin-left: 96%;
+
+}
+.k{
+    margin-right: 10%;
+
+}
+#bob{
+    background-color: yellow;
+}
+.footer{
+    background-color: purple;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: medium;
+   }
+   /* .il{
+    width: 40px;
+    height: 40px;
+   } */
+   
+
+
+
+
+
+
+
+
