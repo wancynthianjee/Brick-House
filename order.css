@@ -1,0 +1,190 @@
+nav{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: contents;
+}
+nav ul{
+    list-style-type: none;
+    width: 98%;
+    text-align: right;
+    padding: 10px;
+}
+nav ul li {
+    display: inline-block;
+    margin: 2px 5px;
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+    width: 40px;
+}
+#bob{
+    background-color: yellow;
+}
+#image{
+    margin-left: 96%;
+}
+#brick{
+    height: 100px;
+}
+.b{
+    font-size: 30px;
+}
+
+.navdi{
+    background-color: yellow;
+}
+.d2{
+    margin-left: 250px;
+}
+.hotline{
+    margin-left: 180px;
+}
+.contact{
+    margin-left: 0%;
+}
+.uno1{
+    font-size: 50px;
+    /* margin-left: 250px; */
+}
+.Enter2{
+    display: inline-flex;
+    font-size: 20px;
+    gap:5%;
+    margin-left:4%;
+}
+.but1,.but2,.but3{
+    padding-left: 150px;
+    /* padding-bottom: 20px; */
+    font-size: 40px;
+    border: gray;
+}
+.kor,.ky,.my,.phone{
+    font-size: 20px;
+    padding-right: 50px;
+}
+.prdc{
+    border: solid;
+    width: 350px;
+    font-size: 20px;
+    border-radius: 50px;
+    margin-left: 60%;
+    margin-top: -20%;
+}
+.p1,.p2,.p3{
+    font-size: 25px;
+    padding-left: 50px;
+}
+.va{
+    font-size: 40px;
+}
+.ten,.twenty,.thirty{
+    padding-right: 125px;
+    padding: left 350px; ;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    margin-top: 15px;
+    margin-left: 15%;
+}
+.ten{
+    border-color: greenyellow;
+    border-radius: 25px;
+}
+.twenty{
+    border-color: grey;
+    border-radius: 25px;
+}
+.thirty{
+    background-color: yellow;
+    color: white;
+    border-radius: 25px;
+}
+.endbut{
+    gap: 10%;
+}
+/* .entry{
+    margin-left: 15%; */
+/* } */
+.nova{
+    display: inline-flex;
+    gap: 150px;
+    font-size: 15px;
+    margin-left: 6%;
+    margin-top: 8%;
+}
+.pickup2{
+    font-size: 15px;
+    gap: 15px;
+}
+.address{
+    font-size: 20px;
+    margin-top: -4%;
+}
+.ke1,.ke2,.ke3{
+    font-size: 25px;
+}
+.ke1{
+    background-color: red;
+}
+.ke2{
+    background-color: red;
+}
+.ke3{
+    background-color: yellow;
+}
+.enter7{
+    font-size: 25px;
+    /* margin-left: 250px; */
+    margin-top: 10%;
+}
+.payment{
+    display: inline-flex;
+    gap: 350px;
+    margin-left: 13%;
+    margin-top: -4%;
+}
+.sele{
+    /* margin-left: 250px; */
+    font-size: 25px;
+}
+.white{
+    font-weight: bolder;
+}
+.paygo{
+margin-top: 17%;
+font-size: 25px;
+gap: 175px;
+}
+.icony{
+margin-top: 19%;
+font-size: 27px;
+color: grey;
+}
+.fin{
+    color: grey;
+    margin-left: 30%;
+}
+.a,.b,.c{
+    font-size: 40px;
+}
+.footer{
+    background-color: purple;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: medium;
+   }
+@media screen and(min-width:400px)and(max-width:768px){
+    body{
+        width: 100%;
+    }
+    .navdi{
+        font-size: x-small;
+    }
+    .prdc{
+        background-color: yellow;
+    }
+}
