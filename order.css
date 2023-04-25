@@ -50,7 +50,7 @@ nav ul li a{
     font-size: 50px;
     /* margin-left: 250px; */
 }
-.Enter2{
+.En{
     display: inline-flex;
     font-size: 20px;
     gap:5%;
@@ -60,13 +60,13 @@ nav ul li a{
     padding-left: 150px;
     /* padding-bottom: 20px; */
     font-size: 40px;
-    border: gray;
+    border:grey;
 }
-.kor,.ky,.my,.phone{
+.kr,.kyle,.my,.hone{
     font-size: 20px;
     padding-right: 50px;
 }
-.prdc{
+.prue{
     border: solid;
     width: 350px;
     font-size: 20px;
@@ -74,14 +74,14 @@ nav ul li a{
     margin-left: 60%;
     margin-top: -20%;
 }
-.p1,.p2,.p3{
+.b1,.b2,.b3{
     font-size: 25px;
     padding-left: 50px;
 }
 .va{
     font-size: 40px;
 }
-.ten,.twenty,.thirty{
+.ent,.ty,.thy{
     padding-right: 125px;
     padding: left 350px; ;
     padding-bottom: 20px;
@@ -89,87 +89,91 @@ nav ul li a{
     margin-top: 15px;
     margin-left: 15%;
 }
-.ten{
+.ent{
     border-color: greenyellow;
     border-radius: 25px;
 }
-.twenty{
+.ty{
     border-color: grey;
     border-radius: 25px;
 }
-.thirty{
+.thy{
     background-color: yellow;
     color: white;
     border-radius: 25px;
 }
-.endbut{
+.ebt{
     gap: 10%;
 }
 /* .entry{
     margin-left: 15%; */
 /* } */
-.nova{
+.v{
     display: inline-flex;
     gap: 150px;
     font-size: 15px;
     margin-left: 6%;
     margin-top: 8%;
 }
-.pickup2{
+.pu2{
     font-size: 15px;
     gap: 15px;
 }
-.address{
+.as{
     font-size: 20px;
     margin-top: -4%;
 }
-.ke1,.ke2,.ke3{
+.k,.k1,.k2{
     font-size: 25px;
 }
-.ke1{
+.k{
     background-color: red;
 }
-.ke2{
+.k1{
     background-color: red;
 }
-.ke3{
+.k2{
     background-color: yellow;
 }
-.enter7{
+.er{
     font-size: 25px;
     /* margin-left: 250px; */
     margin-top: 10%;
 }
-.payment{
+.pyt{
     display: inline-flex;
     gap: 350px;
     margin-left: 13%;
     margin-top: -4%;
 }
-.sele{
+.le{
     /* margin-left: 250px; */
     font-size: 25px;
 }
 .white{
     font-weight: bolder;
 }
-.paygo{
+.po{
 margin-top: 17%;
 font-size: 25px;
 gap: 175px;
 }
-.icony{
+.iy{
 margin-top: 19%;
 font-size: 27px;
 color: grey;
 }
-.fin{
+.fn{
     color: grey;
     margin-left: 30%;
 }
 .a,.b,.c{
     font-size: 40px;
+    
 }
+/* .a{
+    background-color: blueviolet;
+} */
 .footer{
     background-color: purple;
     display: flex;
